@@ -1,0 +1,101 @@
+
+
+
+
+.navbar {
+    background-color: #5F9EA0;
+}
+.header {
+    background: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy3wec0gT18yZ5P7nDmvkSOhUdBbY75ggNtA&usqp=CAU');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    position: relative;
+    
+}
+.overlay {
+    position: absolute;
+    background-color: rgba(119, 136, 153, 0.4);
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+}
+.description {
+    position: absolute;
+    top: 35%;
+    left: 0;
+    padding: 0 0 0 4rem;
+    text-align: left;
+    width: 100%;
+
+
+}
+.description h1 {
+    color:#2F4F4F;
+    font-size: 7rem;
+    margin: 0 2rem 0 0;
+}
+h6 {
+    color: #2F4F4F;
+    text-align: center;
+    margin: 0 1rem 0 0;
+
+}
+h1 {
+    text-align: center;
+}
+.about_container {
+    color: #696969;
+}
+.head {
+    padding: 2rem;
+}
+.about-co
+.about {
+    margin: 2rem;
+}
+.cat {
+    font-size: 2rem;
+    margin-left: 40%;
+}
+.about-cat {
+    font-size: 1.5rem;
+    padding-left: 4%;
+    border-left: 2px solid;
+}
+.some-cats {
+    background-color: #5F9EA0;
+    color: #2F4F4F;
+    margin: 4rem 0;
+    padding: 1rem;
+}
+.des {
+    background-color: #2F4F4F;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    font-size: 1.2rem;
+}
+.item {
+    position: relative;
+}
+.item img {
+    border: 4px solid  #2F4F4F;
+}
+.des span {
+    font-size: 0.9rem;
+    color: lightgray;
+}
+.feedback {
+    position: relative;
+    padding: 2rem;
+}
+.feedback h1 {
+    color: #2F4F4F;
+    padding-top: 4rem;
+}
+.news{
+	position: relative;
+	padding: 4em;
+}
